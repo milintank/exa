@@ -1,2 +1,2 @@
 # exa
-This is projet
+This is first project
