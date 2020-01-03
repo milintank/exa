@@ -1,0 +1,9 @@
+              (PRIMARY KEY)
+BANK NAME     BRANCH NO.     BR NAME     BR ADDRESS     BR CONTACT      (BANK TABLE)
+
+              (FOREIGN KEY)                             (PRIMARY KEY)
+CUST NAME     BRANCH NO.     CUST ADDRESS     CONTACT   SSN
+
+       (CONCATINATED PRIMARY)
+A/C NUMBER    BRANCH NO.      TYPE     BALANCE
+                                                        
